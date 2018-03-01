@@ -1,0 +1,26 @@
+{
+  "name": "tweetly",
+  "version": "1.0.0",
+  "description": "This is a script to tweet from CLI.",
+  "main": "tweetly.js",
+  "dependencies": {
+    "twitter": "^1.7.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/henessy/Tweetly.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/henessy/Tweetly/issues"
+  },
+  "homepage": "https://github.com/henessy/Tweetly#readme",
+  "bin": {
+    "tweetly": "./tweetly.js"
+  }
+}
